@@ -1,11 +1,11 @@
 {
-    "name": "darthsoup/laravel-whmcs",
+    "name": "jobsfav/laravel-whmcs",
     "description": "WHMCS API interface for Laravel 7.0 and up",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kevin Krummnacker",
-            "email": "kevin.krummnacker@gmail.com"
+            "name": "Grozav Claudiu",
+            "email": "claugrozy@gmail.com"
         }
     ],
     "require": {
